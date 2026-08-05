@@ -17,3 +17,11 @@
 - Updated the project plan with a written B♭-trumpet scoring-range note (F♯3–C5).
 - Added reusable rendering and score-extension prompts under `prompts/`, including the corrected Part 1.2 D-major/B-minor prompt.
 
+## 2026-08-05 — Current status
+
+- Part 1 is rendered and available as `scores/part-1/part-1-complete.pdf`.
+- Part 1.1 remains the C-major chromatic long-tone exercise (F♯3–C6).
+- Part 1.2 now contains the C-major/A-minor, G-major/E-minor, and D-major/B-minor slurred triad sections, with the appropriate key-signature changes.
+- The next Part 1.2 task is to extend the sharp-key sequence from A major/F♯ minor through C♯ major/A♯ minor. `prompts/06-extend-part-1-2-three-to-seven-sharps.md` specifies the required starting triads and notation conventions; its first implementation was reverted because the triad patterns need to be checked against that specification before reapplying.
+- Part 2 remains the next main project section after the Part 1.2 sharp-key extension is complete.
+
