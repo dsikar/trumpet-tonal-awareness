@@ -18,7 +18,11 @@ scored as MusicXML and compiled into a practice text.
 
 ## Status
 
-Early development. Structure and content evolving.
+Part 1 baseline complete. Part 2 is next.
+
+## Project brief and continuation
+
+[`prompts/01-project-prompt.md`](prompts/01-project-prompt.md) is the authoritative specification: read it before continuing. It defines every part, deliverable, notation rule, and the staged workflow. [`work-diary.md`](work-diary.md) records completed work, validation, and the next step.
 
 ## Format
 

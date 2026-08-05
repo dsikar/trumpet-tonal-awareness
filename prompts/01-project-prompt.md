@@ -10,9 +10,10 @@ a full-text PDF. Prose explanations accompanying each section should be
 delivered as text/markdown, separate from the MusicXML files, keyed to the
 same numbering so they can be assembled into the final document.
 
-Instrument: Bb Trumpet (transposed parts) unless otherwise noted. Where
-multi-voice exercises are specified, include all voices in a single concert-
-pitch score AND separate transposed trumpet part(s) as applicable.
+Instrument: Bb Trumpet (transposed parts) unless otherwise noted. Score the
+trumpet within the written range F♯3 to C5. Where multi-voice exercises are
+specified, include all voices in a single concert-pitch score AND separate
+transposed trumpet part(s) as applicable.
 
 --------------------------------------------------------------------------------
 PART 1 — DAILY WARM-UP FOUNDATION (baseline, brief — not the focus of this

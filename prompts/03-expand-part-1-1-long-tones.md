@@ -1,0 +1,3 @@
+Modify the Part 1.1 long-tones exercise in `scores/part-1/1.1-long-tones.musicxml` so it includes every chromatic pitch from F♯3 through C6, inclusive. Preserve the exercise's existing musical intent and formatting where possible, while making the complete range clear and playable.
+
+After updating the MusicXML, use the installed MuseScore command-line application to re-render `scores/part-1/1.1-long-tones.pdf`. Then rebuild `scores/part-1/part-1-complete.pdf` by concatenating the Part 1 exercise PDFs in numeric order (1.1 through 1.5), replacing the previous combined PDF. Verify that both the updated 1.1 PDF and the combined Part 1 PDF open correctly and include the expected pages.
