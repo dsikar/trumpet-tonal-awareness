@@ -59,3 +59,24 @@
 
 - Agreed to resume from the repository itself: identify the most recently modified MusicXML/PDF pair and check Git status, rather than maintain a separate project tracker.
 - Current resume point: `scores/part-1/1.3-scales.musicxml` and its PDF; add harmonic-minor, melodic-minor, and chromatic scale work.
+
+## 2026-08-20 — Scratchpad chromatic interval study
+
+- Added a lightweight project scratchpad in `scratchpad.md`, with local interval-accuracy guidance in `SKILLS.md`.
+- Added and rendered `scores/scratchpad/01-chromatic-major-second.musicxml` and its PDF.
+- Scored the first C-centred chromatic frame and its major-second extension, then the expanded frame `C–B–B♭–B–C–C♯–D–C♯–C`.
+- Added the confirmed major-third extension `B♭–D | D–F♯ | B♭–G♭ | C`; each major third was checked as four semitones.
+- Next: continue the chromatic expansion only after confirming each proposed note sequence and interval semitone count.
+
+## 2026-08-23 — Scratchpad structure update & re-render
+
+- Added scratchpad exercise structure rule to `SKILLS.md`: end with a minim (half note) and begin next exercise immediately without rests.
+- Updated `scores/scratchpad/01-chromatic-major-second.musicxml` to remove padding rests and conclude measure 7 on a minim C5.
+- Re-rendered `scores/scratchpad/01-chromatic-major-second.pdf` via MuseScore and verified output with `pdfinfo`.
+- Added instruction-scope abstraction rule to `SKILLS.md`, strictly distinguishing instruction representation/specification from execution/scoring.
+- Added the formal chromatic frame pattern structure contour rules for Cells 1–3 to `SKILLS.md`.
+- Corrected Cell 2 (mm. 4–7) to full 9-note frame plus major-third extension ending on quarter-note C5.
+- Scored Cell 3 (mm. 8–12) with full 13-note frame (down to A4, up to D♯5) and true augmented-fourth (tritone / 6 semitones) extension (`A4–D♯5–D♯5–A5 | A4–D♯4–C5`), repeating C5 across barlines with no rests or minims.
+- Cleaned up score annotations in `scores/scratchpad/01-chromatic-major-second.musicxml`, retaining "Trumpet Tonal Awareness" as title/composer and labelling bar 1 with "2nd", bar 4 with "Major 3rd", and bar 8 with "Augmented 4th".
+- Re-rendered and verified `scores/scratchpad/01-chromatic-major-second.pdf` via MuseScore (1 page A4).
+- Updated `scratchpad.md` and `SKILLS.md`.
