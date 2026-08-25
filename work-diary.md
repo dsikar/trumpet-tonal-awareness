@@ -80,3 +80,7 @@
 - Cleaned up score annotations in `scores/scratchpad/01-chromatic-major-second.musicxml`, retaining "Trumpet Tonal Awareness" as title/composer and labelling bar 1 with "2nd", bar 4 with "Major 3rd", and bar 8 with "Augmented 4th".
 - Re-rendered and verified `scores/scratchpad/01-chromatic-major-second.pdf` via MuseScore (1 page A4).
 - Updated `scratchpad.md` and `SKILLS.md`.
+
+## 2026-08-25 — Interval study: Minor 2nd
+
+- Added ascending (C4 to C♯5, mm. 100–112) and descending (C♯5 to C4, mm. 113–125) Minor 2nd interval study to `scores/scratchpad/01-chromatic-major-second.musicxml`, validated with `xmllint`, and re-rendered PDF (3 pages A4).

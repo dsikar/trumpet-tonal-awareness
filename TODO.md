@@ -7,4 +7,5 @@
 - [x] Keep the interval-accuracy instruction in `SKILLS.md` beside `scratchpad.md`.
 - [x] End every scratchpad exercise with a minim (half note) and begin the next exercise immediately; do not use rests.
 - [x] Add the instruction-scope abstraction to a skills file: preserve the distinction between representing an instruction and executing it.
-- [ ] Write ascending intervals starting in C4; first is a minor second (`C4 C♯4 C4 C♯4 D4 C♯4`).
+- [x] Write ascending intervals starting in C4; first is a minor second (`C4 C♯4 C4 C♯4 D4 C♯4`).
+- [ ] Major second scale.

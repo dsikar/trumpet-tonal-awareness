@@ -14,4 +14,31 @@ Each cell resolves to a quarter-note C5 and connects immediately to the next cel
 
 Score: [`scores/scratchpad/01-chromatic-major-second.musicxml`](scores/scratchpad/01-chromatic-major-second.musicxml)
 
+## 02 — Interval study in C
+
+Ascending and descending interval sequence starting from C4, ending on the target pitch so that the final interval (octaves) resolves at C6.
+
+- **Minor 2nd** (mm. 100–125):
+  - **Ascending** (mm. 100–112):
+    - mm. 100–101: `C4 – C♯4 – C4 – C♯4` | `D4 – C♯4 – D4 – C♯4` (resolves on `C♯4`)
+    - mm. 102–103: `D4 – D♯4 – D4 – D♯4` | `E4 – D♯4 – E4 – D♯4` (resolves on `D♯4`)
+    - mm. 104–105: `E4 – F4 – E4 – F4` | `F♯4 – F4 – F♯4 – F4` (resolves on `F4`)
+    - mm. 106–107: `F♯4 – G4 – F♯4 – G4` | `G♯4 – G4 – G♯4 – G4` (resolves on `G4`)
+    - mm. 108–109: `G♯4 – A4 – G♯4 – A4` | `A♯4 – A4 – A♯4 – A4` (resolves on `A4`)
+    - mm. 110–111: `A♯4 – B4 – A♯4 – B4` | `C5 – B4 – C5 – B4` (resolves on `B4`)
+    - m. 112: `C5 – C♯5 – C5 – C♯5` (resolves on `C♯5`)
+  - **Descending** (mm. 113–125, direct chromatic step-down):
+    - m. 113: `C♯5 – C5 – C♯5 – C5`
+    - m. 114: `C5 – B4 – C5 – B4`
+    - m. 115: `B4 – B♭4 – B4 – B♭4`
+    - m. 116: `B♭4 – A4 – B♭4 – A4`
+    - m. 117: `A4 – A♭4 – A4 – A♭4`
+    - m. 118: `A♭4 – G4 – A♭4 – G4`
+    - m. 119: `G4 – G♭4 – G4 – G♭4`
+    - m. 120: `G♭4 – F4 – G♭4 – F4`
+    - m. 121: `F4 – E4 – F4 – E4`
+    - m. 122: `E4 – E♭4 – E4 – E♭4`
+    - m. 123: `E♭4 – D4 – E♭4 – D4`
+    - m. 124: `D4 – D♭4 – D4 – D♭4`
+    - m. 125: `D♭4 – C4 – D♭4 – C4` (resolves on `C4`)
 
