@@ -41,4 +41,20 @@ Ascending and descending interval sequence starting from C4, ending on the targe
     - m. 123: `E♭4 – D4 – E♭4 – D4`
     - m. 124: `D4 – D♭4 – D4 – D♭4`
     - m. 125: `D♭4 – C4 – D♭4 – C4` (resolves on `C4`)
-
+- **Major 2nd** (mm. 126–145):
+  - **Ascending** (mm. 126–138):
+    - mm. 126–127: `C4 – D4 – C4 – D4` | `E4 – D4 – E4 – D4` (resolves on `D4`)
+    - mm. 128–129: `D4 – E4 – D4 – E4` | `F♯4 – E4 – F♯4 – E4` (resolves on `E4`)
+    - mm. 130–131: `E4 – F♯4 – E4 – F♯4` | `G♯4 – F♯4 – G♯4 – F♯4` (resolves on `F♯4`)
+    - mm. 132–133: `F♯4 – G♯4 – F♯4 – G♯4` | `A♯4 – G♯4 – A♯4 – G♯4` (resolves on `G♯4`)
+    - mm. 134–135: `G♯4 – A♯4 – G♯4 – A♯4` | `C5 – A♯4 – C5 – A♯4` (resolves on `A♯4`)
+    - mm. 136–137: `A♯4 – C5 – A♯4 – C5` | `D5 – C5 – D5 – C5` (resolves on `C5`)
+    - m. 138: `C5 – D5 – C5 – D5` (resolves on `D5`)
+  - **Descending** (mm. 139–145, Major 2nd step-down):
+    - m. 139: `D5 – C5 – D5 – C5`
+    - m. 140: `C5 – B♭4 – C5 – B♭4`
+    - m. 141: `B♭4 – A♭4 – B♭4 – A♭4`
+    - m. 142: `A♭4 – G♭4 – A♭4 – G♭4`
+    - m. 143: `G♭4 – E4 – G♭4 – E4`
+    - m. 144: `E4 – D4 – E4 – D4`
+    - m. 145: `D4 – C4 – D4 – C4` (resolves on `C4`)
