@@ -88,3 +88,12 @@
 ## 2026-08-26 — Interval study: Major 2nd
 
 - Added ascending (C4 to D5, mm. 126–138) and Major 2nd descending (D5 to C4, mm. 139–145) interval study to `scores/scratchpad/01-chromatic-major-second.musicxml`, validated with `xmllint`, and re-rendered PDF (3 pages A4).
+
+## 2026-08-28 — Interval study: Minor 3rd
+
+- Verified semitone calculations for Minor 3rd (3 semitones) per instruction-scope abstraction and interval accuracy guidelines.
+- Added ascending (C4 to D♯5, mm. 146–158) and descending in Minor 3rds (E♭5 to C4, mm. 159–163) interval study to `scores/scratchpad/01-chromatic-major-second.musicxml`.
+- Re-rendered `scores/scratchpad/01-chromatic-major-second.pdf` via MuseScore (3 pages A4) and verified with `pdfinfo`.
+- Updated `scratchpad.md` and `TODO.md`.
+
+
