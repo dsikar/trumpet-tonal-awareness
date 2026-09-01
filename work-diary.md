@@ -89,11 +89,10 @@
 
 - Added ascending (C4 to D5, mm. 126–138) and Major 2nd descending (D5 to C4, mm. 139–145) interval study to `scores/scratchpad/01-chromatic-major-second.musicxml`, validated with `xmllint`, and re-rendered PDF (3 pages A4).
 
-## 2026-08-28 — Interval study: Minor 3rd
+## 2026-09-01 — Interval study: Major 2nd ascending pattern fix
 
-- Verified semitone calculations for Minor 3rd (3 semitones) per instruction-scope abstraction and interval accuracy guidelines.
-- Added ascending (C4 to D♯5, mm. 146–158) and descending in Minor 3rds (E♭5 to C4, mm. 159–163) interval study to `scores/scratchpad/01-chromatic-major-second.musicxml`.
-- Re-rendered `scores/scratchpad/01-chromatic-major-second.pdf` via MuseScore (3 pages A4) and verified with `pdfinfo`.
-- Updated `scratchpad.md` and `TODO.md`.
-
-
+- Replaced the Major 2nd ascending pattern in `scores/scratchpad/01-chromatic-major-second.musicxml` with the fixed 2-measure cell structure (`Root–M2–Root–M2 | M2–Root–M2–Root`), advancing chromatically by semitone from C4 to C5 (mm. 126–150).
+- Applied standard diatonic enharmonic spellings (e.g. D♯4–E♯4 and A♯4–B♯4 for stacked diatonic 2nds).
+- Renumbered subsequent measures: Major 2nd descending (mm. 151–157), Minor 3rd ascending (mm. 158–170), and Minor 3rd descending (mm. 171–175).
+- Re-rendered `scores/scratchpad/01-chromatic-major-second.pdf` via MuseScore 4.6.5, validated XML with `xmllint`, and verified output with `pdfinfo` (3 pages A4).
+- Updated `scratchpad.md` and `TODO.md` with the new measure ranges and completed task.

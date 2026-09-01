@@ -8,7 +8,8 @@
 - [x] End every scratchpad exercise with a minim (half note) and begin the next exercise immediately; do not use rests.
 - [x] Add the instruction-scope abstraction to a skills file: preserve the distinction between representing an instruction and executing it.
 - [x] Write ascending intervals starting in C4; first is a minor second (`C4 C♯4 C4 C♯4 D4 C♯4`).
-- [x] Major second interval study in C (ascending mm. 126–138 to D5, descending in M2 steps mm. 139–145 to C4).
-- [x] Minor 3rd interval practice (ascending mm. 146–158 to D♯5, descending in m3 steps mm. 159–163 to C4).
+- [x] Major second interval study in C (fixed ascending pattern mm. 126–150 to D5 with semitone root steps, descending in M2 steps mm. 151–157 to C4).
+- [x] Minor 3rd interval practice (ascending mm. 158–170 to D♯5, descending in m3 steps mm. 171–175 to C4).
 - [ ] Major 3rd interval practice.
-- [ ] Write a new Major 2nd ascending study such that the pattern is `C – D – C – D – D – C – D – C` | `C♯ – D♯ – C♯ – D♯ – D♯ – C♯ – D♯ – C♯` | `D – E – D – E ....` (ascending in major seconds, with semitone step to the next root pitch).
+- [x] Write a new Major 2nd ascending study such that the pattern is `C – D – C – D – D – C – D – C` | `C♯ – D♯ – C♯ – D♯ – D♯ – C♯ – D♯ – C♯` | `D – E – D – E ....` (ascending in major seconds, with semitone step to the next root pitch).
+- [ ] Update Major 2nd descending study to step down in 1/2 tone (semitone) increments from D5 to C4 (`D5 – C5...`, `C♯5 – B4...`, down to `D4 – C4...`, 13 measures total).
