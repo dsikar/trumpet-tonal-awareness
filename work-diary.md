@@ -96,3 +96,26 @@
 - Renumbered subsequent measures: Major 2nd descending (mm. 151–157), Minor 3rd ascending (mm. 158–170), and Minor 3rd descending (mm. 171–175).
 - Re-rendered `scores/scratchpad/01-chromatic-major-second.pdf` via MuseScore 4.6.5, validated XML with `xmllint`, and verified output with `pdfinfo` (3 pages A4).
 - Updated `scratchpad.md` and `TODO.md` with the new measure ranges and completed task.
+
+## 2026-09-02 — Interval study: Major 2nd descending semitone steps
+
+- Replaced the Major 2nd descending study in `scores/scratchpad/01-chromatic-major-second.musicxml` so each cell is a descending major second (2 semitones) and the upper note steps down chromatically from D5 to D4 (mm. 151–163, 13 measures).
+- Spelled each pair as an adjacent-letter major second, matching the TODO example `D5 – C5` / `C♯5 – B4` and using F♭ for the G♭ cell.
+- Renumbered subsequent measures: Minor 3rd ascending (mm. 164–176) and Minor 3rd descending (mm. 177–181).
+- Re-rendered `scores/scratchpad/01-chromatic-major-second.pdf` via MuseScore 4.6.5, validated XML with `xmllint`, and verified output with `pdfinfo` (3 pages A4).
+- Updated `scratchpad.md` and `TODO.md` with the new measure ranges and completed task.
+
+## 2026-09-02 — Interval-study enharmonic spelling rule
+
+- Added an Enharmonic spelling (interval study) section to `SKILLS.md`: pairs on different staff degrees; ascending lowest-note-first with sharps; descending highest-note-first with flats.
+- Pointed `scratchpad.md` section 02 at that rule; left the listed sequences unchanged pending rescoring.
+- Added a TODO to apply the rule to the existing Minor 2nd, Major 2nd, and Minor 3rd studies. The chromatic-frame cells and Part 1 key-signature spellings are out of scope.
+
+## 2026-09-02 — Interval study: Minor 2nd enharmonic respelling
+
+- Respelled Minor 2nd mm. 100–125 in `scores/scratchpad/01-chromatic-major-second.musicxml` to the interval-study rule in `SKILLS.md`: pairs on different staff degrees; ascending lowest-note-first with sharps; descending highest-note-first with flats.
+- Opening cell is now `C4 – D♭4 – C4 – D♭4` | `D4 – C♯4 – D4 – C♯4`. Same-degree bars such as `F♯–F` and `B–B♭` became `G♭–F` and `B–A♯`.
+- Descent now starts on `D♭5 – C5` (matching the end of the ascent) rather than `C♯5 – C5`.
+- Re-rendered `scores/scratchpad/01-chromatic-major-second.pdf` via MuseScore 4.6.5, validated XML with `xmllint`, and verified output with `pdfinfo` (3 pages A4).
+- Updated `scratchpad.md` and `TODO.md`. Major 2nd and Minor 3rd spelling still pending.
+- Parked a tomorrow note: the baked-in spelling rule may not fit the Major 2nd. Bar 152 is the second descending step and currently raises C as `C♯5 – B4` rather than flattening to `D♭5`.

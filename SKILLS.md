@@ -11,6 +11,19 @@ For a descending interval, count downward from the starting note. Example: B♭ 
 
 State the semitone count when confirming a proposed interval sequence, and check every derived note before adding it to a score.
 
+# Enharmonic spelling (interval study)
+
+Count semitone distance first (see Interval accuracy), then choose the letter names.
+
+The two notes of an oscillating pair must sit on different staff degrees (line vs neighbouring space). Do not spell a semitone as the same letter with an accidental (C–C♯, D–D♯, F–F♯, B–B♭).
+
+- **Ascending:** spell the lowest pitch first. Chromatic lowest notes are sharps (C♯, D♯, F♯, G♯, A♯). The upper note takes the spelling that leaves that degree (often a flat).
+  - Example: `C4 – D♭4 – C4 – D♭4` | `D4 – C♯4 – D4 – C♯4`
+- **Descending:** spell the highest pitch first. Chromatic highest notes are flats (D♭, B♭, A♭, G♭, E♭). The lower note takes the spelling that leaves that degree (often a sharp).
+  - Example: `D♭5 – C5 – D♭5 – C5`, then `C5 – B4 – C5 – B4`, then `B4 – A♯4 – B4 – A♯4`
+
+This rule applies to the interval study (`scratchpad.md` section 02). It does not change key-signature diatonic spelling in Part 1, and it does not rewrite the chromatic-frame cells unless those sequences are revised separately.
+
 # Scratchpad exercise structure
 
 - End every scratchpad cell with a quarter note C5 and begin the next cell immediately with a repeated C5 across the barline; do not use rests or minims.
