@@ -15,12 +15,20 @@ State the semitone count when confirming a proposed interval sequence, and check
 
 Count semitone distance first (see Interval accuracy), then choose the letter names.
 
-The two notes of an oscillating pair must sit on different staff degrees (line vs neighbouring space). Do not spell a semitone as the same letter with an accidental (C–C♯, D–D♯, F–F♯, B–B♭).
+For every interval, spell the two notes at the correct diatonic distance as well as the correct semitone distance. In particular, do not spell a semitone as the same letter with an accidental (C–C♯, D–D♯, F–F♯, B–B♭): use neighbouring staff degrees instead.
+
+Direction determines the order in which the notes are played; it does not override the interval spelling. Where an interval is played high-note-first, identify the lower/current reference pitch and spell the other pitch at the required diatonic distance above it.
 
 - **Ascending:** spell the lowest pitch first. Chromatic lowest notes are sharps (C♯, D♯, F♯, G♯, A♯). The upper note takes the spelling that leaves that degree (often a flat).
   - Example: `C4 – D♭4 – C4 – D♭4` | `D4 – C♯4 – D4 – C♯4`
 - **Descending:** spell the highest pitch first. Chromatic highest notes are flats (D♭, B♭, A♭, G♭, E♭). The lower note takes the spelling that leaves that degree (often a sharp).
   - Example: `D♭5 – C5 – D♭5 – C5`, then `C5 – B4 – C5 – B4`, then `B4 – A♯4 – B4 – A♯4`
+
+## Major-second exception
+
+For a major second, take the lower/current note as the reference and spell the upper note as the next letter name above it, adding an accidental when necessary. The pair must therefore occupy neighbouring staff degrees. This applies even when the sounding pattern is descending (upper note first).
+
+- Example: with B4 as the reference pitch, the major second above is C♯5. The descending cell is `C♯5 – B4`, not `D♭5 – B4`, because B-to-C is a second whereas B-to-D is a third.
 
 This rule applies to the interval study (`scratchpad.md` section 02). It does not change key-signature diatonic spelling in Part 1, and it does not rewrite the chromatic-frame cells unless those sequences are revised separately.
 

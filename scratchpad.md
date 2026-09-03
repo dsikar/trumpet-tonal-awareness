@@ -16,7 +16,7 @@ Score: [`scores/scratchpad/01-chromatic-major-second.musicxml`](scores/scratchpa
 
 ## 02 — Interval study in C
 
-Enharmonic spelling for this study is defined in `SKILLS.md`: lowest note first with sharps ascending; highest note first with flats descending; pairs on different staff degrees. Minor 2nd sequences below follow that rule; Major 2nd and Minor 3rd have not yet been respelled.
+Enharmonic spelling for this study is defined in `SKILLS.md`. Interval spelling follows the diatonic relationship to the lower/current reference note; playing direction only sets the order of the pair. In particular, descending Major 2nd cells retain adjacent-letter spellings such as `C♯5 – B4` (B4 with its major second above), rather than using flats merely because the cell is played downward. Minor 2nd sequences below follow the established rule; Minor 3rd still requires review and respelling.
 
 Ascending and descending interval sequence starting from C4, ending on the target pitch so that the final interval (octaves) resolves at C6.
 
@@ -72,18 +72,32 @@ Ascending and descending interval sequence starting from C4, ending on the targe
     - m. 161: `E4 – D4 – E4 – D4`
     - m. 162: `E♭4 – D♭4 – E♭4 – D♭4`
     - m. 163: `D4 – C4 – D4 – C4` (resolves on `C4`)
-- **Minor 3rd** (mm. 164–181):
-  - **Ascending** (mm. 164–176):
-    - mm. 164–165: `C4 – D♯4 – C4 – D♯4` | `F♯4 – D♯4 – F♯4 – D♯4` (resolves on `D♯4`)
-    - mm. 166–167: `D4 – F4 – D4 – F4` | `G♯4 – F4 – G♯4 – F4` (resolves on `F4`)
-    - mm. 168–169: `E4 – G4 – E4 – G4` | `A♯4 – G4 – A♯4 – G4` (resolves on `G4`)
-    - mm. 170–171: `F♯4 – A4 – F♯4 – A4` | `C5 – A4 – C5 – A4` (resolves on `A4`)
-    - mm. 172–173: `G♯4 – B4 – G♯4 – B4` | `D5 – B4 – D5 – B4` (resolves on `B4`)
-    - mm. 174–175: `A♯4 – C♯5 – A♯4 – C♯5` | `E5 – C♯5 – E5 – C♯5` (resolves on `C♯5`)
-    - m. 176: `C5 – D♯5 – C5 – D♯5` (resolves on `D♯5`)
-  - **Descending** (mm. 177–181, Minor 3rd step-down):
-    - m. 177: `E♭5 – C5 – E♭5 – C5`
-    - m. 178: `C5 – A4 – C5 – A4`
-    - m. 179: `A4 – F♯4 – A4 – F♯4`
-    - m. 180: `F♯4 – D♯4 – F♯4 – D♯4`
-    - m. 181: `D♯4 – C4 – D♯4 – C4` (resolves on `C4`)
+- **Minor 3rd** (mm. 164–201):
+  - **Ascending** (mm. 164–188):
+    - mm. 164–165: `C4 – D♯4 – C4 – D♯4` | `D♯4 – C4 – D♯4 – C4`
+    - mm. 166–167: `C♯4 – E4 – C♯4 – E4` | `E4 – C♯4 – E4 – C♯4`
+    - mm. 168–169: `D4 – F4 – D4 – F4` | `F4 – D4 – F4 – D4`
+    - mm. 170–171: `D♯4 – F♯4 – D♯4 – F♯4` | `F♯4 – D♯4 – F♯4 – D♯4`
+    - mm. 172–173: `E4 – G4 – E4 – G4` | `G4 – E4 – G4 – E4`
+    - mm. 174–175: `F4 – A♭4 – F4 – A♭4` | `A♭4 – F4 – A♭4 – F4`
+    - mm. 176–177: `F♯4 – A4 – F♯4 – A4` | `A4 – F♯4 – A4 – F♯4`
+    - mm. 178–179: `G4 – B♭4 – G4 – B♭4` | `B♭4 – G4 – B♭4 – G4`
+    - mm. 180–181: `G♯4 – B4 – G♯4 – B4` | `B4 – G♯4 – B4 – G♯4`
+    - mm. 182–183: `A4 – C5 – A4 – C5` | `C5 – A4 – C5 – A4`
+    - mm. 184–185: `A♯4 – C♯5 – A♯4 – C♯5` | `C♯5 – A♯4 – C♯5 – A♯4`
+    - mm. 186–187: `B4 – D5 – B4 – D5` | `D5 – B4 – D5 – B4`
+    - m. 188: `C5 – D♯5 – C5 – D♯5` (resolves on `D♯5`)
+  - **Descending** (mm. 189–201, Minor 3rd step-down):
+    - m. 189: `D♯5 – C5 – D♯5 – C5`
+    - m. 190: `D5 – B4 – D5 – B4`
+    - m. 191: `C♯5 – A♯4 – C♯5 – A♯4`
+    - m. 192: `C5 – A4 – C5 – A4`
+    - m. 193: `B4 – G♯4 – B4 – G♯4`
+    - m. 194: `B♭4 – G4 – B♭4 – G4`
+    - m. 195: `A4 – F♯4 – A4 – F♯4`
+    - m. 196: `A♭4 – F4 – A♭4 – F4`
+    - m. 197: `G4 – E4 – G4 – E4`
+    - m. 198: `F♯4 – D♯4 – F♯4 – D♯4`
+    - m. 199: `F4 – D4 – F4 – D4`
+    - m. 200: `E4 – C♯4 – E4 – C♯4`
+    - m. 201: `D♯4 – C4 – D♯4 – C4` (resolves on `C4`)

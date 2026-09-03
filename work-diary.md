@@ -119,3 +119,14 @@
 - Re-rendered `scores/scratchpad/01-chromatic-major-second.pdf` via MuseScore 4.6.5, validated XML with `xmllint`, and verified output with `pdfinfo` (3 pages A4).
 - Updated `scratchpad.md` and `TODO.md`. Major 2nd and Minor 3rd spelling still pending.
 - Parked a tomorrow note: the baked-in spelling rule may not fit the Major 2nd. Bar 152 is the second descending step and currently raises C as `C♯5 – B4` rather than flattening to `D♭5`.
+
+## 2026-09-03 — Interval study: Minor 3rd ascending cell correction
+
+- Corrected the ascending Minor 3rd study (mm. 164–176) so each two-bar cell alternates one base pitch with its minor third, then reverses that same pair: for example, `C4–D♯4` in m. 164 and `D♯4–C4` in m. 165.
+- Advanced the base pitch chromatically for each following cell: C, C♯, D, D♯, E, F, then F♯ in the final single measure. The spellings preserve true minor thirds (three semitones), including F–A♭.
+- Re-rendered `scores/scratchpad/01-chromatic-major-second.pdf`, validated the MusicXML with `xmllint`, and verified the three-page A4 PDF with `pdfinfo`.
+
+## 2026-09-03 — Interval study: Minor 3rd full chromatic ascent and descent
+
+- Extended the corrected two-bar ascending cell pattern through C5–D♯5 (mm. 164–188), retaining the reversal in m. 177 (`A4–F♯4`) before moving on to the G-based cell.
+- Replaced the premature descent with a 13-cell chromatic descent from D♯5–C5 through D♯4–C4 (mm. 189–201).
