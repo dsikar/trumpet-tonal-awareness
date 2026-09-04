@@ -130,3 +130,10 @@
 
 - Extended the corrected two-bar ascending cell pattern through C5–D♯5 (mm. 164–188), retaining the reversal in m. 177 (`A4–F♯4`) before moving on to the G-based cell.
 - Replaced the premature descent with a 13-cell chromatic descent from D♯5–C5 through D♯4–C4 (mm. 189–201).
+
+## 2026-09-04 — Interval study: Major 3rd and pattern decision
+
+- Closed the descending-pattern design decision: retain the direct one-bar chromatic descent. It deliberately requires roughly half the work of the mirrored two-bar ascending cells.
+- Added Major 3rd study to `scores/scratchpad/01-chromatic-major-second.musicxml`: mirrored chromatic ascent from C4–E4 to C5–E5 (mm. 202–226), then direct chromatic descent from E5–C5 to E4–C4 (mm. 227–239).
+- Used true four-semitone major-third spellings throughout, including D♯–F𝄪, A♯–C𝄪, E♭–C♭, and D♭–B𝄫.
+- Validated XML with `xmllint --noout` and rendered the companion PDF with MuseScore; output is four A4 pages.

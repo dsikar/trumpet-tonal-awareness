@@ -16,7 +16,7 @@ Score: [`scores/scratchpad/01-chromatic-major-second.musicxml`](scores/scratchpa
 
 ## 02 — Interval study in C
 
-Enharmonic spelling for this study is defined in `SKILLS.md`. Interval spelling follows the diatonic relationship to the lower/current reference note; playing direction only sets the order of the pair. In particular, descending Major 2nd cells retain adjacent-letter spellings such as `C♯5 – B4` (B4 with its major second above), rather than using flats merely because the cell is played downward. Minor 2nd sequences below follow the established rule; Minor 3rd still requires review and respelling.
+Enharmonic spelling for this study is defined in `SKILLS.md`. Interval spelling follows the diatonic relationship to the lower/current reference note; playing direction only sets the order of the pair. In particular, descending Major 2nd cells retain adjacent-letter spellings such as `C♯5 – B4` (B4 with its major second above), rather than using flats merely because the cell is played downward. Minor 2nd and Minor 3rd sequences below follow the established rule.
 
 Ascending and descending interval sequence starting from C4, ending on the target pitch so that the final interval (octaves) resolves at C6.
 
@@ -101,3 +101,7 @@ Ascending and descending interval sequence starting from C4, ending on the targe
     - m. 199: `F4 – D4 – F4 – D4`
     - m. 200: `E4 – C♯4 – E4 – C♯4`
     - m. 201: `D♯4 – C4 – D♯4 – C4` (resolves on `C4`)
+
+- **Major 3rd** (mm. 202–239):
+  - **Ascending** (mm. 202–226): mirrored two-bar cells advance chromatically from C4–E4 through B4–D♯5; m. 226 completes the C5–E5 cell.
+  - **Descending** (mm. 227–239, direct chromatic step-down): one four-note cell per chromatic upper pitch from E5–C5 to E4–C4. The descent retains its intentionally shorter, single-bar form.
