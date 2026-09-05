@@ -137,3 +137,15 @@
 - Added Major 3rd study to `scores/scratchpad/01-chromatic-major-second.musicxml`: mirrored chromatic ascent from C4–E4 to C5–E5 (mm. 202–226), then direct chromatic descent from E5–C5 to E4–C4 (mm. 227–239).
 - Used true four-semitone major-third spellings throughout, including D♯–F𝄪, A♯–C𝄪, E♭–C♭, and D♭–B𝄫.
 - Validated XML with `xmllint --noout` and rendered the companion PDF with MuseScore; output is four A4 pages.
+
+
+## 2026-09-05 — Scratchpad interval-study handoff
+
+- Completed and user-reviewed the Perfect 4th study in `scores/scratchpad/01-chromatic-major-second.musicxml`: chromatic mirrored ascent in mm. 240–264 and direct chromatic descent in mm. 265–277. Every cell is five semitones; its TODO is checked.
+- Completed and user-reviewed the tritone study in the same score: mm. 278–302 ascend and mm. 303–315 descend. The score title is **“Augmented 4th / Diminished 5th (Augmented 4th spelling)”**. Every cell is six semitones and written as an augmented fourth (four staff degrees), including high-note-first descending cells.
+- For the augmented-fourth study, use simple enharmonic spellings that preserve a written fourth and avoid double accidentals. The approved spellings include D♭–G (not C♯–F𝄪), E–A♯ (approved specifically for mm. 286–287 rather than F♭–B♭), G♭–C, C♭–F, D♯–A, C♯–G, A♯–E, G♯–D, F♯–C, and G–D♭. In particular, m. 314 `G4 – D♭4` is already an augmented fourth: identify the lower/reference pitch first, so D♭ up to G is a fourth.
+- Resolved Major 3rd study notation (mm. 202–239): removed the problematic double accidentals in mm. 208–209, 222–223, and 230; m. 236 is `G4 – E♭4`; m. 237 is `F♯4 – D4`. The Major 3rd study is user-reviewed and complete.
+- Updated `scratchpad.md`, `SKILLS.md` (interval semitone references), and `TODO.md`. The next unchecked interval-study task is: **Repeat the tritone interval practice with Diminished 5th spelling.**
+- Review gate: do **not** mark any future TODO task complete after technical validation alone. Leave it unchecked until the user explicitly reviews/approves the rendered exercise.
+- Rendering/validation command: `musescore -o scores/scratchpad/01-chromatic-major-second.pdf scores/scratchpad/01-chromatic-major-second.musicxml`, followed by `xmllint --noout` and `pdfinfo`. Current companion PDF is six A4 pages.
+- Do **not** use `agy`/Gemini for further work; the user explicitly asked not to use it. `update-major-third-notation.sh` remains an ignored local helper for the earlier mm. 236–237 correction; it is not the workflow for future studies.

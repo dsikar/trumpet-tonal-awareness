@@ -105,3 +105,9 @@ Ascending and descending interval sequence starting from C4, ending on the targe
 - **Major 3rd** (mm. 202–239):
   - **Ascending** (mm. 202–226): mirrored two-bar cells advance chromatically from C4–E4 through B4–D♯5; m. 226 completes the C5–E5 cell.
   - **Descending** (mm. 227–239, direct chromatic step-down): one four-note cell per chromatic upper pitch from E5–C5 to E4–C4. The descent retains its intentionally shorter, single-bar form.
+- **Perfect 4th** (mm. 240–277):
+  - **Ascending** (mm. 240–264): mirrored two-bar chromatic cells from C4–F4 through B4–E5; m. 264 completes C5–F5.
+  - **Descending** (mm. 265–277): direct chromatic cells from F5–C5 to F4–C4, each five semitones.
+- **Augmented 4th / Diminished 5th (Augmented 4th spelling)** (mm. 278–315):
+  - **Ascending** (mm. 278–302): mirrored two-bar chromatic cells from C4–F♯4 through B4–F5; m. 302 completes C5–F♯5.
+  - **Descending** (mm. 303–315): direct chromatic cells from F♯5–C5 to G♭4–C4. Each pair is six semitones and written as an augmented fourth, using simple enharmonic spellings where needed to avoid double accidentals.

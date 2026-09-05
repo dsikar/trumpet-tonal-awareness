@@ -12,9 +12,11 @@
 - [x] Major second interval study in C (fixed ascending pattern mm. 126–150 to D5 with semitone root steps, descending in semitone steps mm. 151–163 to C4).
 - [x] Minor 3rd interval practice (ascending mm. 164–188 to D♯5, descending in m3 steps mm. 189–201 to C4).
 - [x] Major 3rd interval practice.
-- [ ] Perfect 4th interval practice.
+- [x] Perfect 4th interval practice.
+- [x] Augmented 4th / Diminished 5th interval practice.
+- [ ] Repeat the tritone interval practice with Diminished 5th spelling.
 - [x] Decide the descending interval-study pattern: retain the current single-bar chromatic descent. It is intentionally about half the work of the mirrored two-bar ascending cells.
-- [ ] Discuss the notation produced by strictly applying the interval-spelling rules, including F double-sharp in m. 208 and B double-flat in m. 230. Establish the merits and possible drawbacks of adopting such spellings.
+- [x] Resolve Major 3rd interval-study notation: replace double sharps and double flats with simple enharmonic spellings, while retaining four-semitone intervals and correcting mm. 236–237 to written Major 3rds.
 - [x] Correct Minor 3rd interval practice: each two-bar cell alternates the base pitch and its minor third, then reverses the same pair (`C4–D♯4–C4–D♯4` | `D♯4–C4–D♯4–C4` in mm. 164–165). The base pitch advances by semitone for each following cell (mm. 166–167: `C♯4–E4–C♯4–E4` | `E4–C♯4–E4–C♯4`), rather than jumping to a new interval pair within the second bar.
 - [x] Apply the interval-study enharmonic spelling rule in `SKILLS.md` to Minor 2nd mm. 100–125 (`C4 – D♭4` | `D4 – C♯4` ascending; highest-note flats descending).
 - [x] Apply the interval-study enharmonic spelling rule in `SKILLS.md` to Minor 3rd.
