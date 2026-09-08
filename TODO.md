@@ -1,5 +1,8 @@
 # TODO
 
+- [ ] Add Perfect 5th interval study on the chromatic scale.
+- [x] Fix Minor 2nd ascending pattern: m. 101 is `D♭4 – C4 – D♭4 – C4`; m. 102 begins from `C♯4`. The descending pattern remains correct.
+
 - There must be a council to decide of formatting and labelling of chords e.g. if font should be bold and if the major minor suffixes should be hyphenated or not.
 
 - Tomorrow, continue working on Part 1.3 scales: harmonic minor, melodic minor, and chromatic scale.
@@ -14,7 +17,7 @@
 - [x] Major 3rd interval practice.
 - [x] Perfect 4th interval practice.
 - [x] Augmented 4th / Diminished 5th interval practice.
-- [ ] Repeat the tritone interval practice with Diminished 5th spelling.
+- [x] Repeat the tritone interval practice with Diminished 5th spelling.
 - [x] Decide the descending interval-study pattern: retain the current single-bar chromatic descent. It is intentionally about half the work of the mirrored two-bar ascending cells.
 - [x] Resolve Major 3rd interval-study notation: replace double sharps and double flats with simple enharmonic spellings, while retaining four-semitone intervals and correcting mm. 236–237 to written Major 3rds.
 - [x] Correct Minor 3rd interval practice: each two-bar cell alternates the base pitch and its minor third, then reverses the same pair (`C4–D♯4–C4–D♯4` | `D♯4–C4–D♯4–C4` in mm. 164–165). The base pitch advances by semitone for each following cell (mm. 166–167: `C♯4–E4–C♯4–E4` | `E4–C♯4–E4–C♯4`), rather than jumping to a new interval pair within the second bar.

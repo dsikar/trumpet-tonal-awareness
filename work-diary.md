@@ -149,3 +149,11 @@
 - Review gate: do **not** mark any future TODO task complete after technical validation alone. Leave it unchecked until the user explicitly reviews/approves the rendered exercise.
 - Rendering/validation command: `musescore -o scores/scratchpad/01-chromatic-major-second.pdf scores/scratchpad/01-chromatic-major-second.musicxml`, followed by `xmllint --noout` and `pdfinfo`. Current companion PDF is six A4 pages.
 - Do **not** use `agy`/Gemini for further work; the user explicitly asked not to use it. `update-major-third-notation.sh` remains an ignored local helper for the earlier mm. 236–237 correction; it is not the workflow for future studies.
+
+## 2026-09-08 — Interval-study handoff
+
+- Corrected the Minor 2nd ascending study to use complete mirrored two-bar cells: lower-to-upper in the first bar, upper-to-lower in the second, then a chromatic semitone rise to the next pair. It now occupies mm. 100–124; the untouched Minor 2nd descent is mm. 125–137.
+- Renumbered every later interval study after the expanded Minor 2nd ascent. Restored the **Interval study / Minor 2nd** heading and a new-system break at m. 100.
+- Added and rendered the complete **Augmented 4th / Diminished 5th (Diminished 5th spelling)** study in mm. 328–365. Each pair is a six-semitone diminished fifth (five staff degrees); the user reviewed it and its TODO is complete.
+- Current scratchpad PDF is seven A4 pages. MusicXML was validated with `xmllint`, rendered with MuseScore, and checked with `pdfinfo`.
+- **Next task when resuming:** create a **Perfect 5th interval study on the chromatic scale**. Follow the existing interval-study form: mirrored two-bar chromatic ascent, direct one-bar chromatic descent, a section heading and new-system break, explicit semitone and diatonic-spelling verification, then render. Leave its TODO unchecked until the user reviews and approves the rendered exercise.
