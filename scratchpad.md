@@ -120,3 +120,15 @@ Ascending and descending interval sequence starting from C4, ending on the targe
 - **Augmented 4th / Diminished 5th (Diminished 5th spelling)** (mm. 328–365):
   - **Ascending** (mm. 328–352): mirrored two-bar chromatic cells from C4–G♭4 through B4–F5; m. 352 completes the C5–G♭5 cell.
   - **Descending** (mm. 353–365): direct chromatic cells from G♭5–C5 to G♭4–C4. Each pair is six semitones and written as a diminished fifth.
+- **Perfect 5th** (mm. 366–403):
+  - **Ascending** (mm. 366–390): mirrored two-bar chromatic cells from C4–G4 through B4–F♯5; m. 390 completes the C5–G5 cell.
+  - **Descending** (mm. 391–403): direct chromatic cells from G5–C5 to G4–C4. Each pair is seven semitones and written as a perfect fifth.
+- **Minor 6th** (mm. 404–441):
+  - **Ascending** (mm. 404–428): mirrored two-bar chromatic cells from C4–A♭4 through B4–G5; m. 428 completes the C5–A♭5 cell.
+  - **Descending** (mm. 429–441): direct chromatic cells from A♭5–C5 to A♭4–C4. Each pair is eight semitones and written as a minor sixth.
+- **Major 6th** (mm. 442–479):
+  - **Ascending** (mm. 442–466): mirrored two-bar chromatic cells from C4–A4 through B4–G♯5; m. 466 completes the C5–A5 cell.
+  - **Descending** (mm. 467–479): direct chromatic cells from A5–C5 to A4–C4. Each pair is nine semitones and written as a major sixth.
+- **Minor 7th** (mm. 480–517):
+  - **Ascending** (mm. 480–504): mirrored two-bar chromatic cells from C4–B♭4 through B4–A5; m. 504 completes the C5–B♭5 cell.
+  - **Descending** (mm. 505–517): direct chromatic cells from B♭5–C5 to B♭4–C4. Each pair is ten semitones and written as a minor seventh.

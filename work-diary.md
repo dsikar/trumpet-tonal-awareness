@@ -156,4 +156,18 @@
 - Renumbered every later interval study after the expanded Minor 2nd ascent. Restored the **Interval study / Minor 2nd** heading and a new-system break at m. 100.
 - Added and rendered the complete **Augmented 4th / Diminished 5th (Diminished 5th spelling)** study in mm. 328–365. Each pair is a six-semitone diminished fifth (five staff degrees); the user reviewed it and its TODO is complete.
 - Current scratchpad PDF is seven A4 pages. MusicXML was validated with `xmllint`, rendered with MuseScore, and checked with `pdfinfo`.
-- **Next task when resuming:** create a **Perfect 5th interval study on the chromatic scale**. Follow the existing interval-study form: mirrored two-bar chromatic ascent, direct one-bar chromatic descent, a section heading and new-system break, explicit semitone and diatonic-spelling verification, then render. Leave its TODO unchecked until the user reviews and approves the rendered exercise.
+- **Perfect 5th interval study was added, rendered, and user-reviewed; its TODO is complete.**
+
+## 2026-09-09 — Interval study: Perfect 5th
+
+- Added the Perfect 5th study in mm. 366–403: a mirrored chromatic ascent from C4–G4 through C5–G5, followed by a direct chromatic descent from G5–C5 to G4–C4.
+- All 38 cells were verified as seven semitones spanning five staff degrees; MusicXML was validated and the companion PDF re-rendered as seven A4 pages.
+- User reviewed the study; its TODO is complete.
+
+## 2026-09-09 — Interval studies: sixths and Minor 7th
+
+- Added and user-reviewed the Minor 6th study (mm. 404–441): every cell is eight semitones over six staff degrees; its TODO is complete.
+- Added and user-reviewed the Major 6th study (mm. 442–479): every cell is nine semitones over six staff degrees; its TODO is complete. User-approved enharmonic spellings: mm. 462–463 are B♭–G / G–B♭, matching m. 469, and m. 470 is F♯–A, matching m. 461.
+- Added and user-reviewed the Minor 7th study (mm. 480–517): every cell is ten semitones over seven staff degrees; its TODO is complete.
+- MusicXML was validated with `xmllint`; the companion score was rendered with MuseScore and is now nine A4 pages.
+- **Next interval-study task:** Major 7th on the chromatic scale. The Octave chromatic study is also queued. Leave each TODO unchecked until user review.

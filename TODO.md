@@ -1,6 +1,11 @@
 # TODO
 
-- [ ] Add Perfect 5th interval study on the chromatic scale.
+- [x] Add Perfect 5th interval study on the chromatic scale.
+- [x] Add Minor 6th interval study on the chromatic scale.
+- [x] Add Major 6th interval study on the chromatic scale.
+- [x] Add Minor 7th interval study on the chromatic scale.
+- [ ] Add Major 7th interval study on the chromatic scale.
+- [ ] Add Octave interval study on the chromatic scale.
 - [x] Fix Minor 2nd ascending pattern: m. 101 is `D♭4 – C4 – D♭4 – C4`; m. 102 begins from `C♯4`. The descending pattern remains correct.
 
 - There must be a council to decide of formatting and labelling of chords e.g. if font should be bold and if the major minor suffixes should be hyphenated or not.

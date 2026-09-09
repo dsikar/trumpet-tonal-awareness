@@ -7,6 +7,10 @@ Before naming an interval or writing an interval extension, count the semitone d
 - Major third: 4 semitones
 - Perfect fourth: 5 semitones
 - Augmented fourth / diminished fifth (tritone): 6 semitones
+- Perfect fifth: 7 semitones
+- Minor sixth: 8 semitones
+- Major sixth: 9 semitones
+- Minor seventh: 10 semitones
 
 For a descending interval, count downward from the starting note. Example: B♭ down to G is 3 semitones (a minor third); a major third below B♭ is G♭, 4 semitones below.
 
