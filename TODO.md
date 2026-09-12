@@ -4,7 +4,8 @@
 - [x] Add Minor 6th interval study on the chromatic scale.
 - [x] Add Major 6th interval study on the chromatic scale.
 - [x] Add Minor 7th interval study on the chromatic scale.
-- [ ] Add Major 7th interval study on the chromatic scale.
+- [x] Correct the Minor 6th ascending study in m. 427: change the erroneous B♭4 to B4, restoring the mirrored G5–B4 cell.
+- [x] Add Major 7th interval study on the chromatic scale.
 - [ ] Add Octave interval study on the chromatic scale.
 - [x] Fix Minor 2nd ascending pattern: m. 101 is `D♭4 – C4 – D♭4 – C4`; m. 102 begins from `C♯4`. The descending pattern remains correct.
 

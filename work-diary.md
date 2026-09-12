@@ -1,5 +1,14 @@
 # Work diary
 
+## 2026-09-12 — Minor 6th audit
+
+- An audit identified an error in the Minor 6th ascending study at m. 427: its mirrored G5–B♭4 pattern is nine semitones (a major sixth), but it must mirror m. 426's B4–G5 minor sixth. Replace B♭4 with B4 when correcting the score.
+
+## 2026-09-12 — Major 7th interval study
+
+- Added and user-reviewed the Major 7th study (mm. 518–555): mirrored chromatic ascent from C4–B4 through C5–B5, followed by a direct chromatic descent from B5–C5 to B4–C4. Every pair is eleven semitones and written as a major seventh.
+- The Minor 6th m. 427 audit correction is also user-reviewed and complete: B♭4 was replaced by B4, restoring the mirrored G5–B4 minor-sixth cell.
+
 ## 2026-08-03 — Part 1
 
 - Read the brief and chose a concise five-score warm-up baseline: one MusicXML exercise per numbered item.
