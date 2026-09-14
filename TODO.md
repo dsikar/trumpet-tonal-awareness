@@ -6,7 +6,8 @@
 - [x] Add Minor 7th interval study on the chromatic scale.
 - [x] Correct the Minor 6th ascending study in m. 427: change the erroneous B♭4 to B4, restoring the mirrored G5–B4 cell.
 - [x] Add Major 7th interval study on the chromatic scale.
-- [ ] Add Octave interval study on the chromatic scale.
+- [x] Add Octave interval study on the chromatic scale.
+- [ ] Action `prompts/08-chromatic-intervals-v2.md` to create and render the streamlined chromatic interval-study version.
 - [x] Fix Minor 2nd ascending pattern: m. 101 is `D♭4 – C4 – D♭4 – C4`; m. 102 begins from `C♯4`. The descending pattern remains correct.
 
 - There must be a council to decide of formatting and labelling of chords e.g. if font should be bold and if the major minor suffixes should be hyphenated or not.

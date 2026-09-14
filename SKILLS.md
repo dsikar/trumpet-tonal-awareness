@@ -11,6 +11,7 @@ Before naming an interval or writing an interval extension, count the semitone d
 - Minor sixth: 8 semitones
 - Major sixth: 9 semitones
 - Minor seventh: 10 semitones
+- Octave: 12 semitones
 
 For a descending interval, count downward from the starting note. Example: B♭ down to G is 3 semitones (a minor third); a major third below B♭ is G♭, 4 semitones below.
 

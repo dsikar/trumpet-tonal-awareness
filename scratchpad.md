@@ -135,3 +135,6 @@ Ascending and descending interval sequence starting from C4, ending on the targe
 - **Major 7th** (mm. 518–555):
   - **Ascending** (mm. 518–542): mirrored two-bar chromatic cells from C4–B4 through B4–A♯5; m. 542 completes the C5–B5 cell.
   - **Descending** (mm. 543–555): direct chromatic cells from B5–C5 to B4–C4. Each pair is eleven semitones and written as a major seventh.
+- **Octave** (mm. 556–593):
+  - **Ascending** (mm. 556–580): mirrored two-bar chromatic cells from C4–C5 through B4–B5; m. 580 completes the C5–C6 cell.
+  - **Descending** (mm. 581–593): direct chromatic cells from C6–C5 to C5–C4. Each pair is twelve semitones and written as an octave.
