@@ -180,3 +180,12 @@
 - Added and user-reviewed the Minor 7th study (mm. 480–517): every cell is ten semitones over seven staff degrees; its TODO is complete.
 - MusicXML was validated with `xmllint`; the companion score was rendered with MuseScore and is now nine A4 pages.
 - **Next interval-study task:** Major 7th on the chromatic scale. The Octave chromatic study is also queued. Leave each TODO unchecked until user review.
+
+## 2026-09-14 — Interval-study completion and v2 handoff
+
+- The complete original interval study now runs from **Minor 2nd** (m. 100) through **Octave** (m. 593) in `scores/scratchpad/01-chromatic-major-second.musicxml`. Major 7th is mm. 518–555; the user-reviewed Octave study is mm. 556–593. The Octave uses 12-semitone, same-letter pairs: mirrored chromatic ascent C4–C5 through C5–C6, then direct chromatic descent C6–C5 through C5–C4.
+- Corrected original-study m. 431 to alternate G♭5 and B♭4, restoring the intended minor sixth.
+- The companion `scores/scratchpad/01-chromatic-major-second.pdf` was regenerated after the octave addition. Validate and render this source with `xmllint --noout scores/scratchpad/01-chromatic-major-second.musicxml`, then `musescore -o scores/scratchpad/01-chromatic-major-second.pdf scores/scratchpad/01-chromatic-major-second.musicxml`, followed by `pdfinfo`.
+- `SKILLS.md` is authoritative for interval semitone counting and enharmonic spelling; it now explicitly lists an octave as 12 semitones. The review gate remains in force: leave a newly created score task unchecked until the user has reviewed its rendered PDF.
+- The next actionable task is unchecked in `TODO.md`: execute `prompts/08-chromatic-intervals-v2.md`. That prompt creates `scores/scratchpad/08-chromatic-intervals-v2.musicxml` and `.pdf`, titled **“Interval Practice for Trumpet in Bb”**. It retains all descents unchanged but reduces each mirrored ascending two-bar cell to its first bar only, renumbering measures consecutively. Do not alter the original score or PDF while doing so.
+- Commit `05d320d` is pushed to `origin/main`; it includes the original octave study/PDF, the v2 prompt, documentation/TODO updates, and the repository's `.obsidian/` configuration artifacts.
