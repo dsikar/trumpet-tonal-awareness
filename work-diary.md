@@ -189,3 +189,9 @@
 - `SKILLS.md` is authoritative for interval semitone counting and enharmonic spelling; it now explicitly lists an octave as 12 semitones. The review gate remains in force: leave a newly created score task unchecked until the user has reviewed its rendered PDF.
 - The next actionable task is unchecked in `TODO.md`: execute `prompts/08-chromatic-intervals-v2.md`. That prompt creates `scores/scratchpad/08-chromatic-intervals-v2.musicxml` and `.pdf`, titled **“Interval Practice for Trumpet in Bb”**. It retains all descents unchanged but reduces each mirrored ascending two-bar cell to its first bar only, renumbering measures consecutively. Do not alter the original score or PDF while doing so.
 - Commit `05d320d` is pushed to `origin/main`; it includes the original octave study/PDF, the v2 prompt, documentation/TODO updates, and the repository's `.obsidian/` configuration artifacts.
+
+## 2026-09-15 — Streamlined chromatic interval study (v2)
+
+- Created `scores/scratchpad/08-chromatic-intervals-v2.musicxml` and its rendered PDF, **“Interval Practice for Trumpet in Bb”**. It condenses each ascending interval cell from two bars to one, retains every existing descending bar unchanged, and renumbers the score consecutively (437 measures; eight A4 pages).
+- User reviewed the v2 score. Corrected the Minor 3rd spellings in mm. 152 and 177 from C–D♯ / D♯–C to C–E♭ / E♭–C; each is a minor third (three semitones spanning three staff degrees).
+- Validated the MusicXML with `xmllint --noout`, rendered with MuseScore, and verified the PDF with `pdfinfo`. The v2 TODO is complete.
